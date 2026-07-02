@@ -34,5 +34,3 @@ Demonstrar habilidades em:
 - ETL (Extract, Transform, Load)
 - Automação de pipelines
 - Integração com ferramentas de BI
-
-## 🤝 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, novos indicadores ou suporte a outras bolsas.
